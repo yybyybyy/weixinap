@@ -7,7 +7,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * Date: 2017/5/8
  * Time: 9:16
  * 微信绑定学生学号控制器控制器
- */
+ */////////////
 class Bind extends CI_Controller{
 
     function __construct()
